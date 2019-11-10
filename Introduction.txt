@@ -1,0 +1,3 @@
+Before starting with php check the following requirements.
+1. Xampp must be installed if not visit(https://www.apachefriends.org › download)
+2. Code Editor or an IDE is required.
